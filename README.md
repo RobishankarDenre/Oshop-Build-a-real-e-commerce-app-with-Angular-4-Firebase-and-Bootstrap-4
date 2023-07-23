@@ -6,4 +6,4 @@ e-commerce is a user-friendly e-Business for existing customers. It enables you 
 New upgrades include a host of helpful features and functions, such as improved search, better management of invoices and quotes, and more customizable ordering. Intuitive and streamlined, e-commerce enhances your shopping process from the first click to checkout.
 
 • Technologies & Environment used: 
-o ASP.NET WEB API, ASP.NET Core WEB API, C#, SQL server 2016, Dapper, Angular 10+, CSS, HTML, Git, SourceTree, WINSQL, JDE, ORACLE, ODBC
+o Angular 4, CSS, HTML, Git, Bootstrap 4,Firebase,Typescript,Javascript
